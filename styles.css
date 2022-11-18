@@ -7,6 +7,11 @@ body {
   background-color: #ff8e8e;
 }
 
+.border {
+  background-color: rgb(255, 0, 0);
+  --bs-border-color: var(--bs-border-color);
+}
+
 #projects {
   background-color: #ff8e8e;
 }
